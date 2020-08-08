@@ -1,5 +1,5 @@
 # A History
-Welcome to Xtreme Balance!
+Welcome to [Xtreme Balance](https://www.youtube.com/watch?v=OZecD8ku4FU)!
 
 This project was born from a group project at the Digital Worlds Institute at the University of Florida back in 2017.
 
