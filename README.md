@@ -33,6 +33,6 @@ Press `RMB` to push up on the right side
 Go to the main menu and press Quit
 
 # Authors:
-  - Ines Acosta - UI, Artwork, and Animation
+  - Ines Acosta - UI, Backgrounds, and Animation
   - Thamas Mcgowan - Gameplay Programmer, Game Design
-  - Jennifer Sarlo - Artwork
+  - Jennifer Sarlo - Character Design, Product Design, and Animation
